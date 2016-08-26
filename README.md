@@ -9,11 +9,11 @@ in stages where automation is not viable or ineffective.
 
 To Install
 --------------------------------------------------------------------------
-1) Install Apatche 2.3 or above
+1) Install Apatche 2.4 or above
 
 2) Install PHP 7.0 or above
 
-3) Install MySQL 7.0 or above
+3) Install MySQL 5.7 or above
 
 4) Create a SMART directory in the root of your webserver
 
@@ -21,10 +21,10 @@ To Install
 
 6) Create a Data Folder external to the webroot to store all the data in
 
-7) Navigate to the root and follow the configuration instructions
+7) Navigate to the root with your browser and follow the configuration instructions
 
 
 
-Enjoy the fruits of your labour!!
+Enjoy managing your plant with ease!
 
   
